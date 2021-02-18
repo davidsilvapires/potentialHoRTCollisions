@@ -3,6 +3,9 @@
 # Finalizing Potential Conflicts Table by correlating mapped reads with a fork probability equal or
 # higher than 70% with the anottated genome.   
 
+# This script should redirect its standard output to a file that will store the final table.
+echo "Please, redirect standard output to a file that will store the final table."
+
 # Starting table file, generated in the step 2-tableStart2.bash.
 FILENAME="output/tableStart2.tsv"
 
