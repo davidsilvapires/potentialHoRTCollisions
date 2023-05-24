@@ -1,8 +1,8 @@
 # potentialHoRTCollisions
 
-Correlation of D-NAscent replication fork direction with transcription direction to analyse potential head-on collisions in *G. lamblia* genome.
+Clues on the dynamics of DNA replication in *Giardia lamblia*
 
-DOI: \<SUBMITTED\>
+DOI: https://doi.org/10.1242/jcs.260828
 
 
 ## How to execute
